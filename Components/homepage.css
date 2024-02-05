@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+body {
+   /* background-image: url(/Images/coolf1.jpg ); */
+    background-color: black;
+    overflow-x: hidden;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    position: absolute;
+    border: 2px #0ab2ba solid;
+    border-radius: 50px;
+    width: 1880px;
+    height: 100px;
+    background-color: white;
+    color: black;
+}
+
+
+
+.mercedeslogo {
+    position: absolute;
+    width:315px;
+    height: 150px;
+    top: -28px;
+    left: 10px;
+}
+
+.slide1 {
+    background-image: url(/Images/coolf1.jpg );
+    background-size: cover; 
+    background-repeat: no-repeat;
+    position: absolute;
+    z-index: -1;
+    top: -0.5px;
+    left: -1px;
+    width: 100%;
+    height: 98%;
+}
+
+a {
+    color: black;
+    position: relative;
+    font-family: 'Rubik', sans-serif;
+    margin: 40px;
+    left: 400px;
+    top: 70px;
+    font-size: 20px;
+    text-decoration: none;  
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+
+
+.f1icon {
+    width: 90px;
+    height: 80px;
+    position: absolute;
+    top: -65px;
+    left: 2px;
+}
+
+.f1merch {
+    width: 70px;
+    height: 60px;
+    position: absolute;
+    top: -60px;
+    left: -5px;
+}
+
+.f1info {
+    width: 70px;
+    height: 65px;
+    position: absolute;
+    top: -60px;
+    left: 13px;
+}
+.homepage {
+    width: 70px;
+    height: 65px;
+    position: absolute;
+    top: 30px;
+    left: 280px;
+    color: #0ab2ba;
+}
+
+.homepage3 {
+    position: absolute;
+    width: 70px;
+    height: 65px;
+    position: absolute;
+    top: -65px;
+    left: -8px;
+}
+
+.slide2 {
+    position: absolute;
+    border: 5px solid #0ab2ba;
+    top: 800px;
+    width: 1700px;
+    text-align: center;
+    align-items: center;
+    border-radius: 100px;
+    height: 200px;
+    background-color: white;
+    left: 90px;
+}
+
+.f1background {
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    top: 25px;
+    left: 20px;
+}
+
+.f1side{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    top: 25px;
+    left: 1190px;
+}
+
+.f1cup{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    top: 5px;
+    left: 1000px;
+}
+
+.f1cap{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    top: 30px;
+    left: 830px;
+}
+
+.f1toy{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    top: 30px;
+    left: 520px;
+}
+
+.slide3 {
+    position: absolute;
+    top: 890px;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    position: absolute;
+    z-index: -1;
+    left: -1px;
+    width: 100%;
+    height: 98%;
+}
