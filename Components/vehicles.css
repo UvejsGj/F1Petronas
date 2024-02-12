@@ -29,7 +29,7 @@ body {
 }
 
 .slide1 {
-    background-image: url(/Images/coolf1.jpg );
+    background-image: url(/Images/coolf1.jpg  );
     background-size: cover; 
     background-repeat: no-repeat;
     position: absolute;
@@ -167,4 +167,135 @@ a {
 .vehicles {
     color: #0ab2ba;
     
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.grid1 {
+    display: flex;
+    background-color: #ffffff;
+    height: 600px;
+    width: 800px;
+    position: absolute;
+    border-radius: 50px;
+    top: 200px;
+    left: 70px;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.w11 {
+    width: 800px;
+    height: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.h1 {
+    position: absolute;
+    top: 550px;
+    left: 80px;
+    color: black;
+    font-family: 'Rubik', sans-serif;
+}
+
+.p1 {
+    position: absolute;
+    top: 600px;
+    left: 80px;
+    font-size: 16px;
+    color: black;
+    font-family: 'Rubik', sans-serif;
+}
+
+.p2 {
+    position: absolute;
+    background-color: black;
+    top: 665px;
+    left: 80px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+
+.p3 {
+    position: absolute;
+    background-color: black;
+    top: 705px;
+    left: 80px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+
+.p4 {
+    position: absolute;
+    background-color: black;
+    top: 665px;
+    left: 80px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+
+.grid3 {
+    display: flex;
+    background-color: #ffffff;
+    height: 600px;
+    width: 800px;
+    position: absolute;
+    border-radius: 50px;
+    top: 900px;
+    left: 1000px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}
+
+.w107 {
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    width: 800px;
+    height: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.h1_2 {
+    position: absolute;
+    top: 1250px;
+    left: 1010px;
+    color: black;
+    font-family: 'Rubik', sans-serif;
+}
+
+.p1_2 {
+    position: absolute;
+    top: 1300px;
+    left: 1010px;
+    font-size: 16px;
+    color: black;
+    font-family: 'Rubik', sans-serif;
+}
+
+.p1_3 {
+    position: absolute;
+    background-color: black;
+    top: 1360px;
+    left: 1010px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+
+.p1_4 {
+    position: absolute;
+    background-color: black;
+    top: 1400px;
+    left: 1010px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Rubik', sans-serif;
 }
